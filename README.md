@@ -1,36 +1,38 @@
-#Documentación de un proyecto del Taller de Interacción
+# Documentación de un proyecto del Taller de Interacción
+
 En este repositorio encontraras el desarrollo del uno de los proyectos del Taller de Diseño de Interacción del año 2022, de la Escuela de Arquitectura y Diseño. Desarrollado por las alumnas Valentina Dietz, Matilde Croxatto Ullrich y el alumno Andrés Aliaga Chandía. Aquí ordenamos la documentación de este proyecto para su exposición y posible re edicción ya que disponemos los archivos de corte para láser, códigos de arduino y otras informaciones necesarias.
 
-##Observaciones de referencia
+## Observaciones de referencia
+
 Foto Representativa del Proyecto
 
--Aproximación versátil desde el vacío expansivo al volumen próximo -Rodear sostenido del vacío -Apertura y recogimiento articulado en continuidad
+- Aproximación versátil desde el vacío expansivo al volumen próximo -Rodear sostenido del vacío -Apertura y recogimiento articulado en continuidad
 
-##Acercamiento a la forma
+## Acercamiento a la forma
 
-##Proceso constructivo
+## Proceso constructivo
 
--La luz
+- La luz
 
--Tela
+- Tela
 
--Hilos
+- Hilos
 
--Mecanismos
+- Mecanismos
 
--Arduino
+- Arduino
 
--Motor Superior
+- Motor Superior
 
--Diagrama
+- Diagrama
 
--Código
+- Código
 
--Motor Inferior
+- Motor Inferior
 
--Diagram
+- Diagrama 
 
-#include <SoftwareSerial.h>
+## include <SoftwareSerial.h>
 //Valores editables
 int radio=10; // medida del radio del eje del motor en milimetros
 int distancia= 100; // distancia de recorrido de la cuerda en milimetros
@@ -84,8 +86,8 @@ delayMicroseconds(total);
 }
 Código
 
-Construcción Totem
+## Construcción Totem
 
-Describir la estructura de carpetas
-Declarar herramientas y tecnologías utilizadas
+## Estructura de carpetas
+## Herramientas y tecnologías utilizadas
 ```markdown Syntax highlighted code block
