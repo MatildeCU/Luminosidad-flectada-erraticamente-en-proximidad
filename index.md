@@ -1,13 +1,48 @@
-## Welcome to GitHub Pages
+## Documentación de un proyecto del Taller de Interacción
 
-You can use the [editor on GitHub](https://github.com/MatildeCU/documentacion-proyecto-interaxccion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este repositorio encontraras el desarrollo del uno de los proyectos del Taller de Diseño de Interacción del año 2022, de la Escuela de Arquitectura y Diseño. Desarrollado por las alumnas Valentina Dietz, Matilde Croxatto Ullrich y el alumno Andrés Aliaga Chandía. Aquí ordenamos la documentación de este proyecto para su exposición y posible re edicción ya que disponemos los archivos de corte para láser, códigos de arduino y otras informaciones necesarias.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Observaciones de referencia
 
-### Markdown
+![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Aproximación versátil desde el vacío expansivo al volumen próximo 
+-Rodear sostenido del vacío
+-Apertura y recogimiento articulado en continuidad
 
+###Acercamiento a la forma
+
+###Proceso Constructivo
+
+- La luz
+
+- Tela 
+
+- Hilos
+
+- Mecanismos
+
+- Arduino 
+
+- Motor Superior
+
+- Diagrama
+
+- Código
+
+- Motor Inferior
+
+- Diagram
+```markdown
+
+```
+- Código
+
+- Construcción Totem
+ 
+- Describir la estructura de carpetas
+- Declarar herramientas y tecnologías utilizadas
+- 
 ```markdown
 Syntax highlighted code block
 
