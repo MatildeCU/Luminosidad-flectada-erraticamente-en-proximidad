@@ -6,7 +6,9 @@ En este repositorio encontraras el desarrollo del uno de los proyectos del Talle
 
 Foto Representativa del Proyecto
 
-- Aproximación versátil desde el vacío expansivo al volumen próximo -Rodear sostenido del vacío -Apertura y recogimiento articulado en continuidad
+- Aproximación versátil desde el vacío expansivo al volumen próximo 
+- Rodear sostenido del vacío 
+- Apertura y recogimiento articulado en continuidad
 
 ## Acercamiento a la forma
 
