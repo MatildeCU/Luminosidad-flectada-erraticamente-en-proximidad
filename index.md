@@ -10,29 +10,29 @@ En este repositorio encontraras el desarrollo del uno de los proyectos del Talle
 -Rodear sostenido del vacío
 -Apertura y recogimiento articulado en continuidad
 
-###Acercamiento a la forma
+### Acercamiento a la forma
 
-###Proceso Constructivo
+### Proceso constructivo
 
-- La luz
+-La luz
 
-- Tela 
+-Tela 
 
-- Hilos
+-Hilos
 
-- Mecanismos
+-Mecanismos
 
-- Arduino 
+-Arduino 
 
-- Motor Superior
+-Motor Superior
 
-- Diagrama
+-Diagrama
 
-- Código
+-Código
 
-- Motor Inferior
+-Motor Inferior
 
-- Diagram
+-Diagram
 ```markdown
 #include <SoftwareSerial.h>
 //Valores editables
