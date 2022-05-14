@@ -33,8 +33,9 @@ Foto Representativa del Proyecto
 - Motor Inferior
 
 - Diagrama 
-
-## include <SoftwareSerial.h>
+- 
+```
+include <SoftwareSerial.h>
 //Valores editables
 int radio=10; // medida del radio del eje del motor en milimetros
 int distancia= 100; // distancia de recorrido de la cuerda en milimetros
@@ -86,10 +87,11 @@ delayMicroseconds(total);
 }
 //delay(10); // un segundo de retraso
 }
-Código
+//Código
+```
 
 ## Construcción Totem
 
 ## Estructura de carpetas
 ## Herramientas y tecnologías utilizadas
-```markdown Syntax highlighted code block
+
