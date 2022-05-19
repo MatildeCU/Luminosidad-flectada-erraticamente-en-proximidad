@@ -4,7 +4,7 @@ En este repositorio encontraras el desarrollo del uno de los proyectos del Talle
 
 ## Observaciones de referencia
 
-/assets/ima/electrocat.png
+![Esta es una imagen](https://github.com/MatildeCU/Luminosidad-flectada-erraticamente-en-proximidad/blob/main/Ima/Totem%20M%C3%B3dulo%202%20Taller%20de%20Dise%C3%B1o%20de%20Interacci%C3%B3n%20Dibujo%20iso%20v1-01.jpg)
 
 - Aproximación versátil desde el vacío expansivo al volumen próximo 
 - Rodear sostenido del vacío 
