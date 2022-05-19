@@ -4,7 +4,7 @@ En este repositorio encontraras el desarrollo del uno de los proyectos del Talle
 
 ## Observaciones de referencia
 
-Foto Representativa del Proyecto
+/assets/ima/electrocat.png
 
 - Aproximación versátil desde el vacío expansivo al volumen próximo 
 - Rodear sostenido del vacío 
