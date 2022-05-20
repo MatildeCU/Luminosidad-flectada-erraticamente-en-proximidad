@@ -19,21 +19,33 @@ Además se presentarán dos output con máximos y mínimos, la intensidad de las
 ### A escala menor
 Partimos probando cilindros de tela que se van recogiendo mientras se proyecta la textura de estos mismos en contraluz. La luz central se va controlando manualmente en búsqueda de pruebas; subir y bajar, acercarse y alejarse, etc. A partir de estas pruebas van apareciendo distintas proyecciones en el espacio, de las cuales podemos rescatar algunas más interesantes que otras. La luz se hace parte relevante en la proyección cuando ambas telas se superponen en movimiento y la fuente luminica se va acercando a la "arruga".
 
+![Esta es una imagen](Construccion_escala_menor_totem_MVA_pruebas_constructivas_(2).jpg)
+![Esta es una imagen]()
 ![Esta es una imagen]()
 
 ## Proceso constructivo
 
 Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cierta manera lo descubierto en el movimiento de las telas, pero esta vez a través de hilos. En donde los hilos integrados a la tela arrugan esta misma para ir formando distintas texturas dentro del espacio en contraluz.
 
-![Esta es una imagen]()
 - La luz
+![Esta es una imagen](500px-Luz_flectada_MVA.png)
+![Esta es una imagen](500px-Luz_flectada_mva_2.png)
+![Esta es una imagen](600px-Luz_totem_MVA_(1).jpg)
+![Esta es una imagen](600px-Luz_totem_MVA_(12.png)
+![Esta es una imagen](600px-Luz_totem_MVA_(2).jpg)
+![Esta es una imagen](600px-Luz_totem_MVA_(3).jpg)
 
 - Tela
+![Esta es una imagen](500px-Pruebas_tela_escala_real_mva_(2).png)
+![Esta es una imagen](Hilos_tela_mva_2.png)
 
 - Hilos
+![Esta es una imagen](600px-Hilos_tela_mva.jpg)
+![Esta es una imagen]()
+
 
 - Mecanismos
-
+![Esta es una imagen](600px-Mecanismo_tela_hilos_mva.jpg)
 - Arduino
 
 - Motor Superior
@@ -103,6 +115,9 @@ delayMicroseconds(total);
 ```
 
 ## Construcción Totem
+
+![Esta es una imagen](800px-Totem_escala_real_terminado.jpg)
+![Esta es una imagen]()
 /cad
 /cam
 ## Estructura de carpetas
