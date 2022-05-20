@@ -49,6 +49,9 @@ Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cie
 
 - Arduino
 
+[Contribution guidelines for this project](docs/README.md)
+[Contribution guidelines for this project](ino/README.md)
+
 /assets/ino/README.md
 /assets/ino/motor_y_coloracion_al_subir_y_bajar/caja_led_dos_variantes_y_botones.ino
 
