@@ -91,7 +91,8 @@ delayMicroseconds(total);
 ```
 
 ## Construcción Totem
-
+/cad
+/cam
 ## Estructura de carpetas
 ## Herramientas y tecnologías utilizadas
 
