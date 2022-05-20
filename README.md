@@ -12,8 +12,20 @@ En este repositorio encontraras el desarrollo del uno de los proyectos del Talle
 
 ## Acercamiento a la forma
 
+Se conversó como grupo sobre las diversas observaciones y encuentros que tuvimos, llegando a una observación por cada uno, que guiará la propuesta final del totem. Se determinó el concepto de proximidad como uno de estos, por lo cual unos de los inputs del Tótem es un sensor de ultra sonido el cual mide la distancia de un objeto enviando y recibiendo señales sonoras. La segunda característica observada es lo errático, aquello es expresado el en el movimiento de dentro del Tótem, el cual se efectuará mediante un motor activado por los sensores ultrasónicos. Este movimiento será expresado por una tela al interior del objeto. Luz Flectada es aquello que se logró en la unión se estos conceptos.
+
+Además se presentarán dos output con máximos y mínimos, la intensidad de las luces manejadas con botones ubicados en los laterales del Tótem y la altura en desplazamiento de estas. Esto ya que se dispondrán ocho botones en total, cada cara contará con dos, los cuales se podrán activar en pares o individualmente. Cara placa con los botones estará en distintas alturas, así se tendrá que disponer el cuerpo a estirarse o a recogerse para activarlos.
+
+### A escala menor
+Partimos probando cilindros de tela que se van recogiendo mientras se proyecta la textura de estos mismos en contraluz. La luz central se va controlando manualmente en búsqueda de pruebas; subir y bajar, acercarse y alejarse, etc. A partir de estas pruebas van apareciendo distintas proyecciones en el espacio, de las cuales podemos rescatar algunas más interesantes que otras. La luz se hace parte relevante en la proyección cuando ambas telas se superponen en movimiento y la fuente luminica se va acercando a la "arruga".
+
+![Esta es una imagen]()
+
 ## Proceso constructivo
 
+Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cierta manera lo descubierto en el movimiento de las telas, pero esta vez a través de hilos. En donde los hilos integrados a la tela arrugan esta misma para ir formando distintas texturas dentro del espacio en contraluz.
+
+![Esta es una imagen]()
 - La luz
 
 - Tela
@@ -91,7 +103,8 @@ delayMicroseconds(total);
 ```
 
 ## Construcción Totem
-
+/cad
+/cam
 ## Estructura de carpetas
 ## Herramientas y tecnologías utilizadas
 
