@@ -46,7 +46,13 @@ Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cie
 
 - Mecanismos
 ![Esta es una imagen](600px-Mecanismo_tela_hilos_mva.jpg)
+
 - Arduino
+
+/assets/ino/caja_led_dos_variantes_y_botones.ino
+/assets/ino/led_rgb_caja_central_totem.ino
+/assets/ino/motor_steper_subir_y_bajar_con_botones.ino
+/assets/ino/motor_y_coloracion_al_subir_y_bajar.ino
 
 - Motor Superior
 
