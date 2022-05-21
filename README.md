@@ -25,9 +25,16 @@ Partimos probando cilindros de tela que se van recogiendo mientras se proyecta l
 
 ## Proceso constructivo
 
-Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cierta manera lo descubierto en el movimiento de las telas, pero esta vez a través de hilos. En donde los hilos integrados a la tela arrugan esta misma para ir formando distintas texturas dentro del espacio en contraluz.
+Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cierta manera lo descubierto en el movimiento de las telas, pero esta vez a través de hilos. En donde los hilos integrados a la tela arrugan esta misma para ir formando distintas texturas dentro del espacio en contraluz. Una vez definidos, a que el gesto se expresaría en la proyección de la sombra de estas telas arrugadas, se dio paso a la construcción del mecanismo que produciría este movimiento. 
+Se decidió instalar un motor en la parte superior del totem, en el que se montó un servo. Así a modo de pulsador (muy parecido al movimiento qure hace un dedo al presionar) este mecanismo presiona nueve hilos por cara, que están vinculados a la tela. Este mecanismo, es accionado a través de sensores de proximidad; es decir, que cuando el usuario se ubica en la cara uno, el motor modificará exclusivamente esa cara.
+
+Por otra parte se trabajó en uyn aparato lumínico, que recorre en totem en un eje vertical central. este aparato es el encargado de proyectar la luz que se ensombrece con las telas. Este aparato es accionado a traves de cuatro botones, ubicados uno en cada cara, los cuales modifican: intensidad, ritmos o bucles programados. 
+Finalmente se instaló una membrana translúcida levemente opaca (papel diamante) en la que se proyectan posteriormente estas luces flectadas. 
+
+
 
 - La luz
+Se busca una propuesta azaroza del color, para lo que se utiliza la función random de arduino, configurados los LEDs de la forma analogWrite(R, random (150,250)); analogWrite(G,random(150,250));analogWrite(B,random (150,250)).
 ![Esta es una imagen](500px-Luz_flectada_MVA.png)
 ![Esta es una imagen](500px-Luz_flectada_mva_2.png)
 ![Esta es una imagen](600px-Luz_totem_MVA_(1).jpg)
@@ -36,16 +43,22 @@ Comenzamos realizando las pruebas a escala 1:1. en donde pudimos replicar de cie
 ![Esta es una imagen](600px-Luz_totem_MVA_(3).jpg)
 
 - Tela
+Se utilizó tela de velo liso por su capacidad de maleabilidad sombreada. Es decir que en la suma de arrugas generó sombras expresivas. 
 ![Esta es una imagen](500px-Pruebas_tela_escala_real_mva_(2).png)
 ![Esta es una imagen](Hilos_tela_mva_2.png)
 
 - Hilos
+En la propuesta se utilizó hilo de pescar de 0.05 mm, por su resistencia a la tracción y poco roce.
 ![Esta es una imagen](600px-Hilos_tela_mva.jpg)
 ![Esta es una imagen]()
 
 
 - Mecanismos
-![Esta es una imagen](600px-Mecanismo_tela_hilos_mva.jpg)
+ Mecanismo sperior:
+ Se utiliza un motor de tipo stepper (paso a paso) y un servo. El motor posicionará al servo en la cara e hilos correspondientes, mientras que el servo montado en el será el encargado de presionar dichos hilos.
+ Mecanismo sube y baja del aparato lumínico:
+ Se instaló un motor stepper (paso a paso) en la parte inferior del totem, este, a través de una correa que recorria desde la parte inferior a la superior, se ancló al aparato lumínico. Luego se definió un recorrido de 1.2 mt. con dirección 1 y -1, por lo que la fuente de luz baja y sube.
+[Esta es una imagen](600px-Mecanismo_tela_hilos_mva.jpg)
 
 - Arduino
 
