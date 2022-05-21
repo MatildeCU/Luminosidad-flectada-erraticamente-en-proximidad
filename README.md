@@ -67,6 +67,16 @@ En la propuesta se utilizó hilo de pescar de 0.05 mm, por su resistencia a la t
 
 ## Construcción Totem
 
+Construcción de estructura con listones de 20x20 de pino oregón. Se cortan 4 listones de 2 mt. cada uno. se cortan 8 listones de 30 cm, Se ensamblan con pistola de grapas neumática segun disposición del modelo 3D.
+Luego se procede a la contrucción y posicionamiento del mecanismo superior en acrílico cortado por laser cnc.
+Seguido se instaló el riel vertical (tubo de conduit de 20 mm.). en conjunto se construyó el aparato lumínico disponiendo cuatro tiras LED por 4 de las caras del paralelógramo.
+Luego se instalaron las telas de velo, y se colocaror y cosieron los hilos a estas.
+Posteriormente se instalaron los pulsadores en las cuatro caras.
+una vez aquí, se pegaron las membranas de papel diamante en el exterior del totem.
+Finalmente se conectaron todos los componentes electronicos y se ubicaron en la parte inferior del tótem.
+
+
+
 ![Esta es una imagen](800px-Totem_escala_real_terminado.jpg)
 ![Esta es una imagen]()
 /cad
